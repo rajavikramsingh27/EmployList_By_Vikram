@@ -1,0 +1,59 @@
+[
+  {
+    "domain": "iOS",
+    "employ": [
+      {
+        "name": "iOS Name 1",
+        "email": "iosname@gmail.com",
+        "domain": "iOS"
+      }
+    ]
+  },
+
+  {
+    "domain": "Android",
+    "employ": [
+      {
+        "name": "iOS Name 1",
+        "email": "iosname@gmail.com",
+        "domain": "iOS"
+      },
+      {
+        "name": "iOS Name 2",
+        "email": "iosname@gmail.com",
+        "domain": "iOS"
+      },
+      {
+        "name": "iOS Name 1",
+        "email": "iosname@gmail.com",
+        "domain": "iOS"
+      }
+    ]
+  },
+
+  {
+    "domain": "Flutter",
+    "employ": [
+      {
+        "name": "iOS Name 1",
+        "email": "iosname@gmail.com",
+        "domain": "iOS"
+      },
+      {
+        "name": "iOS Name 2",
+        "email": "iosname@gmail.com",
+        "domain": "iOS"
+      },
+      {
+        "name": "iOS Name 1",
+        "email": "iosname@gmail.com",
+        "domain": "iOS"
+      },
+      {
+        "name": "iOS Name 2",
+        "email": "iosname@gmail.com",
+        "domain": "iOS"
+      }
+    ]
+  }
+]
